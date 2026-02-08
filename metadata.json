@@ -1,0 +1,7 @@
+{
+  "name": "GMB Lead Finder AI",
+  "description": "An AI-powered local business lead generator that finds high-potential clients without websites using Google Maps grounding and Gemini scoring.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
